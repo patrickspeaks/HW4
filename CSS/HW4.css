@@ -1,0 +1,50 @@
+		
+	h1{
+	    font-family: wide latin; 
+		color: rgb(0,0,0);
+		
+      }
+	  
+	h2{
+	    font-family: wide latin; 
+		color: rgb(255,50, 50);
+		background-color: lightgrey;
+        width: 200px;
+        border: 5px solid black;
+        padding: 10px;
+        margin: 0px;
+		
+		
+	  }
+	body{
+		font-family: calibri; 
+		color: rgb(0,0,0);
+	  }
+	
+	*{
+    background-color: lightblue;
+	  }
+	  
+	#first{
+    text-shadow: 2px 2px #ff0000;
+      }
+	
+	.class1 {
+    font-family: cooper black;
+	font-size: 14px;
+    color: purple;
+	  }
+	
+    h2 {
+    background-color: lightgrey;
+    width: 250px;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 0px;
+    }	
+	  
+		
+	
+	
+	
+	
